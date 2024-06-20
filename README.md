@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/yakisyst3m/advanced-hash-comparison) 
+![GitHub release-date](https://img.shields.io/github/release-date/yakisyst3m/advanced-hash-comparison)
+
 # advanced-hash-comparison
 
 # But :
